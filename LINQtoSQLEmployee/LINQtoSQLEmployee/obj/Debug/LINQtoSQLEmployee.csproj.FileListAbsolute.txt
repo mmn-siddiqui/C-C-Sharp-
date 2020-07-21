@@ -1,0 +1,9 @@
+C:\Users\Hamza Noor\source\repos\LINQtoSQLEmployee\LINQtoSQLEmployee\bin\Debug\LINQtoSQLEmployee.exe.config
+C:\Users\Hamza Noor\source\repos\LINQtoSQLEmployee\LINQtoSQLEmployee\bin\Debug\LINQtoSQLEmployee.exe
+C:\Users\Hamza Noor\source\repos\LINQtoSQLEmployee\LINQtoSQLEmployee\bin\Debug\LINQtoSQLEmployee.pdb
+C:\Users\Hamza Noor\source\repos\LINQtoSQLEmployee\LINQtoSQLEmployee\obj\Debug\LINQtoSQLEmployee.csprojAssemblyReference.cache
+C:\Users\Hamza Noor\source\repos\LINQtoSQLEmployee\LINQtoSQLEmployee\obj\Debug\LINQtoSQLEmployee.Form1.resources
+C:\Users\Hamza Noor\source\repos\LINQtoSQLEmployee\LINQtoSQLEmployee\obj\Debug\LINQtoSQLEmployee.Properties.Resources.resources
+C:\Users\Hamza Noor\source\repos\LINQtoSQLEmployee\LINQtoSQLEmployee\obj\Debug\LINQtoSQLEmployee.csproj.GenerateResource.cache
+C:\Users\Hamza Noor\source\repos\LINQtoSQLEmployee\LINQtoSQLEmployee\obj\Debug\LINQtoSQLEmployee.exe
+C:\Users\Hamza Noor\source\repos\LINQtoSQLEmployee\LINQtoSQLEmployee\obj\Debug\LINQtoSQLEmployee.pdb
