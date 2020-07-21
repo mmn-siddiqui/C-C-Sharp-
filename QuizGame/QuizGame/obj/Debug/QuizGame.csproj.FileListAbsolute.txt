@@ -1,0 +1,10 @@
+C:\Users\Hamza Noor\source\repos\QuizGame\QuizGame\bin\Debug\QuizGame.exe.config
+C:\Users\Hamza Noor\source\repos\QuizGame\QuizGame\bin\Debug\QuizGame.exe
+C:\Users\Hamza Noor\source\repos\QuizGame\QuizGame\bin\Debug\QuizGame.pdb
+C:\Users\Hamza Noor\source\repos\QuizGame\QuizGame\obj\Debug\QuizGame.csprojAssemblyReference.cache
+C:\Users\Hamza Noor\source\repos\QuizGame\QuizGame\obj\Debug\QuizGame.Form1.resources
+C:\Users\Hamza Noor\source\repos\QuizGame\QuizGame\obj\Debug\QuizGame.Properties.Resources.resources
+C:\Users\Hamza Noor\source\repos\QuizGame\QuizGame\obj\Debug\QuizGame.csproj.GenerateResource.cache
+C:\Users\Hamza Noor\source\repos\QuizGame\QuizGame\obj\Debug\QuizGame.exe
+C:\Users\Hamza Noor\source\repos\QuizGame\QuizGame\obj\Debug\QuizGame.pdb
+C:\Users\Hamza Noor\source\repos\QuizGame\QuizGame\obj\Debug\QuizGame.Startup.resources
