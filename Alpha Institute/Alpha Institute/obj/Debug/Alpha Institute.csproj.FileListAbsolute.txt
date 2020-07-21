@@ -1,0 +1,15 @@
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\bin\Debug\Alpha Institute.exe.config
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\bin\Debug\Alpha Institute.exe
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\bin\Debug\Alpha Institute.pdb
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\obj\Debug\Alpha_Institute.Login.resources
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\obj\Debug\Alpha_Institute.Properties.Resources.resources
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\obj\Debug\Alpha Institute.csproj.GenerateResource.cache
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\obj\Debug\Alpha Institute.exe
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\obj\Debug\Alpha Institute.pdb
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\obj\Debug\Alpha_Institute.LoginFaculty.resources
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\obj\Debug\Alpha_Institute.LoginStudent.resources
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\obj\Debug\Alpha_Institute.RegisterFaculty.resources
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\obj\Debug\Alpha_Institute.RegisterStudent.resources
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\obj\Debug\Alpha_Institute.StudentRecord.resources
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\obj\Debug\Alpha Institute.csprojAssemblyReference.cache
+C:\Users\Hamza Noor\source\repos\Alpha Institute\Alpha Institute\obj\Debug\Alpha_Institute.ManageStudent.resources
